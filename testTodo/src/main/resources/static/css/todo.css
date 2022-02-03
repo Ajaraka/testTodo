@@ -1,0 +1,21 @@
+body{
+	background-color: #f1cea3;
+}
+.mainArea {
+	background-color: white;
+	display: block;
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	width: 960px;
+}
+
+.todoList {
+	list-style: none;
+	padding: 0px;
+}
+
+.chkLbl {
+	cursor: pointer;
+}
